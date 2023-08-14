@@ -1,5 +1,4 @@
 
-My Profile =)
 
 - 👨‍💻 Student of Computer Science at CAU [RG] https://www.researchgate.net/profile/Mika-Friesenborg
 - 🏦 Interested in macroeconomics and quantitative analysis
