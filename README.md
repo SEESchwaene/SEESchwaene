@@ -1,8 +1,12 @@
+### 👋 Hi, I’m ** Mika **
 
+- 👨‍💻 Computer Science student @ RWTH ex CAU  
+- 📊 Interested in macroeconomics & quantitative analysis  
+- 🐧 Linux enjoyer  
 
-- 👨‍💻 Student of Computer Science at RWTH
-- 🏦 Interested in macroeconomics and quantitative analysis
-- 💻 Linux enthusiast
+### ⚡ Currently
+- Learning, building, breaking, fixing  
+- Exploring algorithms, systems & data  
 
 
 <!--
