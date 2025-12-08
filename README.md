@@ -1,4 +1,4 @@
-### 👋 Hi, I’m ** Mika **
+### 👋 Hi, I’m Mika 
 
 - 👨‍💻 Computer Science student @ RWTH ex CAU  
 - 📊 Interested in macroeconomics & quantitative analysis  
